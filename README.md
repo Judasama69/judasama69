@@ -1,3 +1,4 @@
-# H'i Im Judasama69 but my real name is Kenjie :) 👋
+# H'i Im Judasama69 :) 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judasama69)](https://github.com/judasama69/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=judasama69"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judasama69&layout=compact"/>
