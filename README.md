@@ -38,7 +38,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/5IUI.gif" alt="gif" />
+ <img align="right" width="350" src="/assets/coding.gif" alt="gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
