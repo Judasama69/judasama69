@@ -41,7 +41,7 @@
  <img align="right" width="350" src="/assets/coding.gif" alt="gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; Love writing code and learning new features<br/><br/>
  <!--📧 &emsp; Reach me anytime: kenjiepen14@gmail.com<br/><br/> -->
 
 </p>
