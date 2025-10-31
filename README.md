@@ -40,8 +40,8 @@
 <p>
  <img align="right" width="350" src="/assets/coding.gif" alt="gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
+ ✌️ &emsp; I love to write code and run a program<br/><br/>
+ ❤️ &emsp; Love to explore other frameworks and learn new features<br/><br/>
  <!--📧 &emsp; Reach me anytime: kenjiepen14@gmail.com<br/><br/> -->
 
 </p>
@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-## Used To Code
+## Tools and Programmign Languaged used:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
