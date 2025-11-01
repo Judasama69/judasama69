@@ -72,7 +72,6 @@
 <br/>
 
 ## Projects and Open Source -
-<!-- [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks) -->
 [![React ground](https://github-readme-stats.vercel.app/api/pin/?username=Judasama69&repo=reactProject_app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Judasama69/reactProject_app)
 [![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=Judasama69&repo=To-Do-List&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Judasama69/To-Do-List)
 
@@ -93,7 +92,7 @@
 
 <p align="center">
   <a href="https://github.com/Judasama69">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Judasama69&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Judasama69&theme=radical" alt="Kenjie's GitHub Contribution"/>
   </a>
 </p>
 
