@@ -1,16 +1,25 @@
-<a href="https://github.com/Judasama69">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Judasama69&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<img 
+  align="right" 
+  width="380"
+  src="/assets/coding.gif" 
+  alt="coding gif"
+/>
 
-<div align="center">
+<div align="left">
   <h3>
     <samp>> Hey There!, I am 
-      <b><a target="_blank" href="https://portfolio-kenjie-pernecita.vercel.app/">Kenjie Rousfel Pernecita</a></b>
+      <b>
+        <a target="_blank" href="https://portfolio-kenjie-pernecita.vercel.app/">
+          Kenjie Rousfel Pernecita
+        </a>
+      </b>
     </samp>
   </h3>
   <p> 
     <samp>「 I am a wannabe PHP developer from <b>Philippines</b> 」</samp>
   </p>
+</div>
+
 
   <p>
     <a href="https://portfolio-kenjie-pernecita.vercel.app/" target="blank">
@@ -29,30 +38,27 @@
 
 # About me
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+const Kenjie = {
+  languages: ["PHP", "Java", "C++", "Javascript"],
+  
+  technologies: {
+    frontend: {
+      frameworks: ["Laravel"],
+      styling: ["Tailwind CSS", "Bootstrap"],
+    },
+
+    databases: {
+      relational: ["MySQL"]
+    },
+
+currentFocus:"Learning Laravel for PHP",
+
+};
 ```
-<br/>
-<img align="right" src="/assets/coding.gif" alt="gif" style="max-width: 100%; display: inline-block;" />
-<br/><br/>
 
 <br/>
-
-<br/>
-
 <div align="center">
  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Judasama69&theme=gruvbox-duo" alt="GitHub Streak" /></a>
-  
   <br/><br/>
   <a href="https://github.com/Judasama69">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Judasama69&theme=radical" alt="Contribution Card"/>
