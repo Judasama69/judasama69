@@ -39,7 +39,7 @@
 # About me
 ```javascript
 const Kenjie = {
-  languages: ["PHP", "Java", "C++", "Javascript"],
+  languages: ["PHP", "Java", "C++", "C#", "Javascript"],
   
   technologies: {
     frontend: {
