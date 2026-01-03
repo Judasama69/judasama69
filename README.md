@@ -28,58 +28,31 @@
 <br />
 
 # About me
-
-<p>
-  <img align="right" width="350" src="/assets/coding.gif" alt="gif" />
-  ✌️ &emsp; I love to write code and run programs<br/><br/>
-  ❤️ &emsp; Love to explore other frameworks and learn new features<br/><br/>
-  📧 &emsp; Reach me anytime: kenjiepen14@gmail.com
-</p>
-
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+<br/>
+<img align="right" src="/assets/coding.gif" alt="gif" style="max-width: 100%; display: inline-block;" />
 <br/><br/>
 
-<div align="center">
-  <h2>Tools and Programming Languages:</h2>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<br/>
 
 <br/>
 
 <div align="center">
-  <h2>📌 Featured Projects</h2>
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/Judasama69/To-Do-List">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Judasama69&repo=To-Do-List&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&v=1" alt="To-Do List" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Judasama69/php-projects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Judasama69&repo=php-projects&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&v=1" alt="PHP Projects" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <a href="https://github.com/Judasama69?tab=repositories" target="_blank">
-    <img alt="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Judasama69">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Judasama69&theme=radical&border=7F3FBF&background=0D1117" alt="Streak Stats"/>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Judasama69&theme=gruvbox-duo" alt="GitHub Streak" /></a>
+  
   <br/><br/>
   <a href="https://github.com/Judasama69">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Judasama69&theme=radical" alt="Contribution Card"/>
