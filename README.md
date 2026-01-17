@@ -44,7 +44,7 @@ const Kenjie = {
   technologies: {
     frontend: {
       frameworks: [" --- "],
-      styling: [" --- ", " --- "],
+      styling: ["Bootstrap 5"],
     },
     backend: {
       frameworks: ["Laravel"]
