@@ -53,7 +53,7 @@ const Kenjie = {
 
     databases: {
       relational: ["MySQL"],
-      testing: [SQLite],
+      testing: ["SQLite"],
     },
 
 currentFocus:"Learning Laravel for PHP",
