@@ -44,16 +44,14 @@ const Kenjie = {
   technologies: {
     frontend: {
       frameworks: ["Livewire v3"],
-      styling: ["Bootstrap 5", "Tailwind CSS"],
+      styling: ["Tailwind CSS"],
     },
     backend: {
       frameworks: ["Laravel 12"],
-      orm: ["Eloquent ORM"]
     },
 
     databases: {
       relational: ["MySQL"],
-      testing: ["SQLite"],
     },
 
 currentFocus:"Learning Laravel for PHP",
